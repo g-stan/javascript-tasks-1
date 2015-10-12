@@ -6,7 +6,7 @@ if (!isCorrect.value) {
     console.log(isCorrect.message);
 }
 else {
-	var equalNumbers = {
+    var equalNumbers = {
         0:'-',
         1:'I', 
         2:'II', 
